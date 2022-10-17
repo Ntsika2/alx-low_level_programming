@@ -9,23 +9,4 @@ int main(void)
 {
         printf("with proper grammar, but the outcome is a piece of art,\n");
         return (0);
-}
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"5-printf.c" 12L, 185C                       
+}	
