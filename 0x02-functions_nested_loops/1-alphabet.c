@@ -3,15 +3,14 @@
 /**
  * main - check the code for Holberton School students.
  *
- * Return: alphabets.
+ * Return: print_alphabet.
  */
 void print_alphabet(void)
 {
-	char alphabet;
+	char letters;
 
-	for (alphabet = 'a'; alphabet ≤ 'z'; ialphabet++)
-	{
-		_putchar(alphabet);
-	}
+	for (letter = 'a'; letter ≤ 'z'; letter++)
+		_putchar(letter);
+
 	_putchar('\n');
 }
