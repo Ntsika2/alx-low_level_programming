@@ -1,7 +1,7 @@
 #include "main"
 
 /**
- * print_alphabelt - print all alphabelt in lowercase
+ * print_alphabet - print all alphabelt in lowercase
  */
 void print_alphabet(void)
 {
