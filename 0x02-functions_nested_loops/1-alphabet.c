@@ -1,15 +1,13 @@
-#include "main.h"
+#include "main"
 
 /**
- * main - check the code for Holberton School students.
- *
- * Return: print_alphabet.
+ * print_alphabelt - print all alphabelt in lowercase
  */
 void print_alphabet(void)
 {
-	char letters;
+	char letter;
 
-	for (letter = 'a'; letter ≤ 'z'; letter++)
+	for (letter = 'a'; letter <= 'z'; letter++)
 		_putchar(letter);
 
 	_putchar('\n');
