@@ -2,7 +2,7 @@
 
 /**
  *swap_int - sawp two int
- *a: int one
+ *@a: int one
  *@b: int two
  *
  *Return: 0 Success
